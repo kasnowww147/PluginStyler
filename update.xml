@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>1.0.0.0</version>
-    <url>PLACEHOLDER_FOR_EXE_URL</url>
-    <changelog>https://github.com/你的用户名/BitwigStyler-Dist/releases</changelog>
+    <url>https://github.com/kasnowww147/PluginStyler-Dist/releases/latest/download/PluginStyler.exe</url>
+    <changelog>https://github.com/kasnowww147/PluginStyler-Dist/releases</changelog>
     <mandatory>false</mandatory>
+
 </item>
